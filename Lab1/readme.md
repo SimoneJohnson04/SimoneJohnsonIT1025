@@ -28,6 +28,10 @@ GitHub is a "Client-Server" archeticture because it has the user log on and conn
 
 ### Hardware
 #### Hard Drives and Memory
+The difference between latency and transfer rates in the performance of a hard drive is that latency is the speed at which it spins the disc to find the location of the data, whereas the transfer rate is the speed at which the data is transfered to and from the disk media. Therefore, both affect the speed of information being transfered, but latency is the speed of getting to the data versus transfer is the speed of sending the data. 
+SSD, or Solid State Drives, have the same function as hard drives, storage of information and data, but they are newer and have a different way of storing and retrieving the information that is faster and more reliable than hard drives. Solid state drives do not use the spinning platters or moving heads in order to store and retrieve data, rather, they use flash memory and store data in the memory by splitting it into word length pieces.
+Increasing RAM allows the computer to run faster as it is less likely to not be able to hold all of the data, meaning that it is less likely to need to use the slower path of switching data in and out of the hard drive in order to complete the actions needed. Therefore, by increasing the about of RAM memory, more data is loaded into the RAM which is faster than the hard drive and thus doesn't need to access the hard drive as much, so it will be faster.
+The differnce between 64 and 32 bit data paths is the number of bits which they can transfer per 1 clock cycle, as 64 bit data paths like ones used in DIMMs can transfer 64 bits in 1 clock cycle, whereas 32 bit data paths like ones in SIMMs can only transfer 32 bits of data in 1 clock cycle.
 #### ALU and the Control Unit
 #### CUP, Input & Output
 #### Logic Gates and Circuits
