@@ -28,9 +28,13 @@ GitHub is a "Client-Server" archeticture because it has the user log on and conn
 **RAM** - Increasing RAM allows the computer to run faster as it is less likely to not be able to hold all of the data, meaning that it is less likely to need to use the slower path of switching data in and out of the hard drive in order to complete the actions needed. Therefore, by increasing the about of RAM memory, more data is loaded into the RAM which is faster than the hard drive and thus doesn't need to access the hard drive as much, so it will be faster.
 **Data Paths** - The differnce between 64 and 32 bit data paths is the number of bits which they can transfer per 1 clock cycle, as 64 bit data paths like ones used in DIMMs can transfer 64 bits in 1 clock cycle, whereas 32 bit data paths like ones in SIMMs can only transfer 32 bits of data in 1 clock cycle.
 ### ALU and the Control Unit
-### CUP, Input & Output
+The interaction of the control unit and the ALU, or Arithmetic Logic Unit, is that the ALU is what performs mathematical operations in the CPU and the control unit recieves instructions from RAM and then breaks the instructions down for the ALU and other components. More specifically, the control unit recieves an instruction from RAM, then tells the ALU what type of operation to do with input A and B, and the ALU responds with the output of the operation or a flag which helps the control unit continue with operations based on the output or flag. The ALU needs the control unit to turn on the set wire in order to store the output in a register, and the control unit turns on the enable wire to allow the register to output the number it saved inside. Therefore, it is clear that the ALU is the component that performs the mathematical operation and the control unit is what sends the ALU instructions and recieves the result of the ALU's operation.
+### CPU, Input & Output
+
 ### Logic Gates and Circuits
-### IEEE
+
+### IEEE - Ethically Aligned Design
+
 
 
 ## Conclusion 
