@@ -35,7 +35,8 @@ The interaction of the control unit and the ALU, or Arithmetic Logic Unit, is th
 **Output** - The output from the self-check out would be the screen on which the items and total cost is displayed. Anotehr output could be the touchpad that also shows information after the items are processed. 
 ### Logic Gates and Circuits
 A truth table shows what the circuit comparer outputs depending on what is put into the system, showing all of the possible inputs and their resulting outputs. A NAND gate is similar in mechanism to the AND gate, however, when both inputs in the NAND gate are on, the output is off; in opposition to an AND gate where if both inputs are on, the output is on. Essentially what the NAND gate is it does the opposite of whatever the AND gate does, if the AND gate is 1, the NAND gate is 0, if the AND gate is 0, the NAND gate is 1. See the tables below for further clarification:
-|AND Truth Table             |              
+
+**AND Truth Table**           
 | Input 1 | Input 2 | Output |              
 | ------- | ------- | ------ |              
 |    0    |    0    |    0   |              
@@ -43,7 +44,7 @@ A truth table shows what the circuit comparer outputs depending on what is put i
 |    1    |    0    |    0   |              
 |    1    |    1    |    1   |              
 
-|NAND Truth Table            |
+**NAND Truth Table**
 | Input 1 | Input 2 | Output |
 | ------- | ------- | ------ |
 |    0    |    0    |    1   |
