@@ -34,7 +34,7 @@ The interaction of the control unit and the ALU, or Arithmetic Logic Unit, is th
 **Input** - The input from the self-check out at the grocery is the scanner, the touchpad (for the signature), and the card slot reader. 
 **Output** - The output from the self-check out would be the screen on which the items and total cost is displayed. Anotehr output could be the touchpad that also shows information after the items are processed. 
 ### Logic Gates and Circuits
-
+A truth table shows what the circuit comparer outputs depending on what is put into the system, showing all of the possible inputs and their resulting outputs. 
 ### IEEE - Ethically Aligned Design
 
 
