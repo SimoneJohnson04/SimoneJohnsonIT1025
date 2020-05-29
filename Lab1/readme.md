@@ -52,8 +52,8 @@ A truth table shows what the circuit comparer outputs depending on what is put i
 |    1    |    0    |    1   |
 |    1    |    1    |    0   |
 ### IEEE - Ethically Aligned Design
-
+The IEEE, also known as Institute of Electrical and Electronics Engineers, is a group of people who work in electrical, electronic, and computing fields and related areas of science and technology areas. The purpose of IEEE is to promote the development of technology and innovations in order to benefit human lives. The importance of ethics in design is that as AI technology increases and becomes more prevalent in our world, AI will most likely shape and affect our lives and thus ethics in the development and design is important because of how AI will affect us in the future. Furthemore, AI and code can and will affect people for the better or for the worse, and thus it is important to keep ethics in mind while designing and programming.
 
 
 ## Conclusion 
-Sucesses and challenges in the unit modules
+During this lab, I learned a lot about information systems and their components, many specifics about the hardware components of information systems, and about the ethics involved in current development and design of technology. I also learned how to use GitHub, which is very beneficial because I have been wanting to start using GitHub for sharing programs before this course but wasn't sure of how to start using it before this. I did have some trouble in this lab figuring out how to format tables in GitHub, but figured it out using the Markdown Cheat-Sheet. Finally, I have found learning about the history of computers and how they work interesting and can't wait to understand more!
