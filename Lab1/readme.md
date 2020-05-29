@@ -2,7 +2,7 @@
 
 
 ## Executive Summary
-Executive summary stuff (summary as if explaining it to a team)
+The purpose of this week's lab was to understand of how the IT1025 course will be proceeding, along with developing a familiarity with the basics of using GitHub and learning how GitHub can be used both in this course and for future projects and job applications. Additionally, in this lab the goal was to grasp the idea of an information system and be able to identify the fundamental parts that make up an information system. Furthermore, a more indepth study of the first part of an information system, the hardware component, was started in this lab.
 
 
 ## Information System Components  
@@ -34,7 +34,15 @@ The interaction of the control unit and the ALU, or Arithmetic Logic Unit, is th
 **Input** - The input from the self-check out at the grocery is the scanner, the touchpad (for the signature), and the card slot reader. 
 **Output** - The output from the self-check out would be the screen on which the items and total cost is displayed. Anotehr output could be the touchpad that also shows information after the items are processed. 
 ### Logic Gates and Circuits
-A truth table shows what the circuit comparer outputs depending on what is put into the system, showing all of the possible inputs and their resulting outputs. 
+A truth table shows what the circuit comparer outputs depending on what is put into the system, showing all of the possible inputs and their resulting outputs. A NAND gate is similar in mechanism to the AND gate, however, when both inputs in the NAND gate are on, the output is off; in opposition to an AND gate where if both inputs are on, the output is on. Essentially what the NAND gate is it does the opposite of whatever the AND gate does, if the AND gate is 1, the NAND gate is 0, if the AND gate is 0, the NAND gate is 1. See the tables below for further clarification:
+|AND Truth Table             |              |NAND Truth Table            |
+| Input 1 | Input 2 | Output |              | Input 1 | Input 2 | Output |
+| ------- | ------- | ------ |              | ------- | ------- | ------ |
+|    0    |    0    |    0   |              |    0    |    0    |    1   |
+|    0    |    1    |    0   |              |    0    |    1    |    1   |
+|    1    |    0    |    0   |              |    1    |    0    |    1   |
+|    1    |    1    |    1   |              |    1    |    1    |    0   |
+
 ### IEEE - Ethically Aligned Design
 
 
