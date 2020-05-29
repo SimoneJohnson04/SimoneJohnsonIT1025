@@ -30,7 +30,9 @@ GitHub is a "Client-Server" archeticture because it has the user log on and conn
 ### ALU and the Control Unit
 The interaction of the control unit and the ALU, or Arithmetic Logic Unit, is that the ALU is what performs mathematical operations in the CPU and the control unit recieves instructions from RAM and then breaks the instructions down for the ALU and other components. More specifically, the control unit recieves an instruction from RAM, then tells the ALU what type of operation to do with input A and B, and the ALU responds with the output of the operation or a flag which helps the control unit continue with operations based on the output or flag. The ALU needs the control unit to turn on the set wire in order to store the output in a register, and the control unit turns on the enable wire to allow the register to output the number it saved inside. Therefore, it is clear that the ALU is the component that performs the mathematical operation and the control unit is what sends the ALU instructions and recieves the result of the ALU's operation.
 ### CPU, Input & Output
-
+**CPU** - The CPU in a self-check out is most likely an Intel microprocessor in the  computer (central) part of the self-check out at the grocery. 
+**Input** - The input from the self-check out at the grocery is the scanner, the touchpad (for the signature), and the card slot reader. 
+**Output** - The output from the self-check out would be the screen on which the items and total cost is displayed. Anotehr output could be the touchpad that also shows information after the items are processed. 
 ### Logic Gates and Circuits
 
 ### IEEE - Ethically Aligned Design
