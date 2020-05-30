@@ -15,10 +15,10 @@ The difference between decimal, binary, and hexadecimals is the base (how many d
 **Utility Software** - The role of utility software is to allow you to fix, optimize, or modify your computer. An example of an utility software is CCleaner, which removes unused files and settings on the hard drive to make the computer run quicker, and thus it is optimizing the computer.
 **Operating System Software** - The role of operating system software is managing all of the programs on a computer, managing hardware resources, user-interface components, and having a platform that code can be written on. An example of an operating system software is iOS by Apple on its mobile devices.
 **ERP** - ERP, or Enterprise Resource Planning, is a type of software application that uses a central database in order to organize information within a large company. An example of an ERP is Oracle, which is a company that sells a software application that helps to integrate cloud applications and database software and technology.
-**Virtualization** - The purpose of virtualization is . This is different from clud computing because cloud computing is , whereas virtualization is.
+**Virtualization** - The purpose of virtualization is to emulate several devices by using only one computer, allowing companies to run more than one virtual system. This is different from clud computing because cloud computing is where data and applications are stored on the Internet instead of installed on a computer, whereas virtualization is running more than one system from a device in order to reduce costs in hardware.
 
 ## Virtualization
-
+Problems such as     are solved with virtualization. In virtualization, a hypervisor does .
 
 ## Python
 
