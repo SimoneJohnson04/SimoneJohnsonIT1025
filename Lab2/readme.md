@@ -21,7 +21,7 @@ The difference between decimal, binary, and hexadecimals is the base (how many d
 Problems such as not using a server to its full potential, too high costs of hardware and cooling, and only being able to run one task on one server are solved with virtualization. In virtualization, a hypervisor seperates the physical resources from the virtual environment, meaning that they divide up physical resources amoung the  virtual machines.
 
 ## Python
-
+Pseudocode is code that has minimal or limited syntax, meaning that you can focus more on what the code needs to do and solve rather than the syntax in order to make it run correctly. Python is considered closer to pseudocode as it has very little syntax and what syntax there is is very easy to learn. Python also is an interpreted coding language, meaningt that it doesn't need to be compiled and converted to binary as a compiled language does. Instead, Python converts the code into bytecodes and then turns it into the native computer language and runs it, thus it is called "interpreted", rather than "compiled" where it is compiled and converted into binary  in order to run the code.
 
 ## Career Exploration
 ### College Central
