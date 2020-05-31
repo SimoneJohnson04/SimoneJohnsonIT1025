@@ -18,7 +18,7 @@ The difference between decimal, binary, and hexadecimals is the base (how many d
 **Virtualization** - The purpose of virtualization is to emulate several devices by using only one computer, allowing companies to run more than one virtual system. This is different from clud computing because cloud computing is where data and applications are stored on the Internet instead of installed on a computer, whereas virtualization is running more than one system from a device in order to reduce costs in hardware.
 
 ## Virtualization
-Problems such as     are solved with virtualization. In virtualization, a hypervisor does .
+Problems such as not using a server to its full potential, too high costs of hardware and cooling, and only being able to run one task on one server are solved with virtualization. In virtualization, a hypervisor seperates the physical resources from the virtual environment, meaning that they divide up physical resources amoung the  virtual machines.
 
 ## Python
 
