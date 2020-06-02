@@ -25,8 +25,11 @@ Pseudocode is code that has minimal or limited syntax, meaning that you can focu
 
 ## Career Exploration
 ### College Central
+Looking through the internships in the College Central, what I realized was that there are quite a few internships that require people with technology skills. I also realized that many of the internships require a bachelor's degree. 
 ### Certifications
+I looked at the Cisco certification, and what I learned from their website is that Cisco certified employees are more likely to be more efficient and better at using technology in order to help customers. There are also several different "stages" of certifications that Cisco offers, such as Entry, Associate, Professional, and Expert. I believe that this method allows for more flexibility and the website displayed the course certifications needed to get to each level. 
 ### Certificates and Degrees
+After exploring the Tri-C certificates on their website, one certificate that I thought was interesting was the "Short-Term Certificate in Mobile Application Developement". This certificate is based on designing, developing, and testing mobile applications and teaches students how to make apps and how to prepare to have a job in mobile app development.
 ### Co-ops / Internships
 ### Industry Associations / Student Organizations
 
