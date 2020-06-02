@@ -31,8 +31,9 @@ I looked at the Cisco certification, and what I learned from their website is th
 ### Certificates and Degrees
 After exploring the Tri-C certificates on their website, one certificate that I thought was interesting was the "Short-Term Certificate in Mobile Application Developement". This certificate is based on designing, developing, and testing mobile applications and teaches students how to make apps and how to prepare to have a job in mobile app development.
 ### Co-ops / Internships
+What you need to do in order to be "co-op ready" is to go through the co-op orientation process from the Career Center on the Tri-C website, create/update a resume, meet with a Employer Relations Specialist in order to apply for and participate in a co-op, and finally, sign the "Cooperative Education Agreement" form. Co-ops, internships, and job shadowing are all great ways to get experience in a certain job field and allow you to see if that is what you want to major in and later have a job in that field.
 ### Industry Associations / Student Organizations
-
+The organization I chose was the CCDC, also known as the Collegiate Cyber Defense Competition, which is a competition formed by an organization that is attempting to provide students with a controlled environment in which they try to protect a corporate network infrastructure. The CCDC allows students to put what they have learned in classrooms into the real world and allows them to work in teams to foster collaboration.
 
 ## Conclusion
 Include your professional conclusion here
