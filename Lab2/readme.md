@@ -36,4 +36,4 @@ What you need to do in order to be "co-op ready" is to go through the co-op orie
 The organization I chose was the CCDC, also known as the Collegiate Cyber Defense Competition, which is a competition formed by an organization that is attempting to provide students with a controlled environment in which they try to protect a corporate network infrastructure. The CCDC allows students to put what they have learned in classrooms into the real world and allows them to work in teams to foster collaboration.
 
 ## Conclusion
-
+During this lab, I learned some of the basics about the software that makes our everyday interactions with technology possible.  I did have some difficulty with the Virtual Machine creation, but I corresponded with Professor Tamerlano, and ___________. Finally, I really enjoyed starting to learn how Python works and am looking forward to learning how to use it more in the following weeks.
