@@ -2,7 +2,7 @@
 
 
 ## Executive Summary
-Include your executive summary here...
+The purpose of Lab #2 was to delve into more information of the second component of an information system, the software. When looking at software, several topics are important such as how the computer interprets the data, as it can be represented in different bases and how a program can be either interpreted(such as Python) or compiled. Additionally, the lab covered different types of software programs and how virtualization is a process to make servers more efficient, along with how expertise in software areas can lead to jobs and internships.
 
 ## Data Representation
 ### Numeric Conversions
@@ -36,4 +36,4 @@ What you need to do in order to be "co-op ready" is to go through the co-op orie
 The organization I chose was the CCDC, also known as the Collegiate Cyber Defense Competition, which is a competition formed by an organization that is attempting to provide students with a controlled environment in which they try to protect a corporate network infrastructure. The CCDC allows students to put what they have learned in classrooms into the real world and allows them to work in teams to foster collaboration.
 
 ## Conclusion
-Include your professional conclusion here
+
