@@ -17,7 +17,7 @@ Lossless compression saves all of the data from the original image, whereas loss
 ### File Formats
 A jpg file is one that uses lossy compression in order to save file space, however, it lets the developer specify how much compression they want, allowing them to control the compression vs size ratio. A gif file is one that allows for animated images, along with the fact that it is a bitmap image format, allowing up to 8 bits per pixel. On the other hand, a png is a format that uses lossless file compression to store images, but it is less commonly used despite its ability to have transparent backgrounds.
 ### File Properties
-
+My image took 5 "layers", one for each of the objects. In my design, the layers are as follows: the green arrow, the text box saying "up", the text box saying "scale images", the box around the text in white and red, and the red background box. The main feature I wanted in the design was the arrow pointing upwards in order to emphasize the "up" part. The file is 203 KB, ad the option that my computer recommends joining with is chrome.exe, meaning that it opens the image in a web browser. This isn't the most optimal location because most times you don't want to see the image in a new tab, rather, the "Photos" application on Chromebooks would be much more optimal for this task.
 ## Lucidchart
 
 ## Introduction to Networking
