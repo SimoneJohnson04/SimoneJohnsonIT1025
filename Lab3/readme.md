@@ -11,8 +11,11 @@ Python shell is a place where code runs immidiately, but it also doesn't save th
 **Three Data Types** - The three data types are integers, which are whole numbers like 1, floating point numbers also known as doubles like 4.56, and strings which are like words like 'hello'.
 ## Graphics
 ### Raster vs. Vector Graphics
+Raster graphics are images that are made up of very many small pixels, and the pixels aren't seen unless zoomed in quite a bit. On the other hand, vector graphics are images that don't lose quality as you zoom in as they are made of something more complex than pixels, called geometry. Raster graphics are better for times in which customers aren't going to be zooming in as they are easier to find or make, but vector graphics are better for times when high quality will be needed for zooming in, such as a digital photography blog.
 ### Lossless vs. Lossy Compression
+Lossless compression saves all of the data from the original image, whereas lossy compression removes some of the data by merging colors that are similar to each other making the file less large but losing some of the data. Lossy compression is used when space is a bigger factor than quality, that is, it is more important that the file is smaller than the photo is high quality. However, in graphic design it is often more important that the quality is high so they use lossless compression which has a larger file but higher quality images.
 ### File Formats
+A jpg file is one that uses lossy compression in order to save file space, however, it lets the developer specify how much compression they want, allowing them to control the compression vs size ratio. A gif file is one that allows for animated images, along with the fact that it is a bitmap image format, allowing up to 8 bits per pixel. On the other hand, a png is a format that uses lossless file compression to store images, but it is less commonly used despite its ability to have transparent backgrounds.
 ### File Properties
 
 ## Lucidchart
