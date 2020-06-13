@@ -24,7 +24,13 @@ As I have used Lucidchart before in order to create flowcharts to display the lo
 
 ## Introduction to Networking
 ### Data Transmission
+**Packet** - 2. Unit of data. A packet is a unit of data that is sent from one host to another in order communicate and send the data necessary for a task.
+**Packet-Switching** - 4. Technology that allows packets of data to be routed based on destination address. Packet-switching is when the host sends packets in different routes based upon how it can get the data there fastest, and this means that different sections of the data may be sent in different ways to get to the host, but then all of it comes together at the host.
+**IP Address** - 3. Unique identifying number. An IP address is a unique code of 32 hexidecimals, sectioned as 8 groups of 4 digits, that allow each device on the internet to have its own identifying number.
+**DNS** - 5. Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com. A DNS, or domain name server/system, is essentially a directory of all the IP addresses and server names so that you don't need to memorize the IP address, rather you just put in the domain name and the DNS returns the IP address for you.
+**Protocol** - 1. Set of rules to allow devices to communicate. Protocol is the rules that make sure communications are occuring correctly and safely online, such as the FIle Transfer Protocol which is rules for transfering files online.
 ### Networking Hardware
+A switch is better than a hub because a hub doesn't filter data or know where the data is supposed to be sent, whereas a switch knows the Mac adddresses of the devices connected so it can send the data only to the device that needs it(reduces traffic on network). A router is better than both a switch or a hub because hubs and switches both cannot read IP addresses and thus can only exchange data in the local area network, whereas the router can read IP addresses so it can accept the data meant for its network and rejects data for other networks.
 ### Network Topologies
 ### Network Design
 ### NSA/CSS
