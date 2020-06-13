@@ -1,6 +1,6 @@
 # Lab 3
 ## Executive Summary
-Include your executive summary here...
+The purpose of Lab 3 is to understand how some online tasks work. This is shown in the learning of basic Python and how files are compressed and the advantages of different file types. Additionally, the lab demonstrates how diagrams can help make ideas and concepts easier to see and help when planning a system or program. Finally, the lab touches on the idea of data being sent online, how different networks function, and how those networks are kept safe.
 
 ## Python IDLE
 Python shell is a place where code runs immidiately, but it also doesn't save the code, whereas the file editor in the IDLE allows you to create, edit, and save programs and it uses the Python shell in order to run the program. Essentially, python shell is where the code runs and code can be programmed there, but it doesn't save, while the file editor in the IDLE lets you save programs then run them in the shell.
@@ -9,6 +9,7 @@ Python shell is a place where code runs immidiately, but it also doesn't save th
 **Assignment Statements** -  An assignment statement is a statement in the code that gives a variable a set value, usually using the "=" operator. An example would be "Chickens = input()"
 **Functions** - Functions in python are a set of statements that take an input and then go through the statements and put out an output. An example of this is "int(Chickens)", turning the string into an integer.
 **Three Data Types** - The three data types are integers, which are whole numbers like 1, floating point numbers also known as doubles like 4.56, and strings which are like words like 'hello'.
+
 ## Graphics
 ### Raster vs. Vector Graphics
 Raster graphics are images that are made up of very many small pixels, and the pixels aren't seen unless zoomed in quite a bit. On the other hand, vector graphics are images that don't lose quality as you zoom in as they are made of something more complex than pixels, called geometry. Raster graphics are better for times in which customers aren't going to be zooming in as they are easier to find or make, but vector graphics are better for times when high quality will be needed for zooming in, such as a digital photography blog.
@@ -34,7 +35,9 @@ A switch is better than a hub because a hub doesn't filter data or know where th
 ### Network Topologies
 Single point of failure is when there is one part of the system that goes down, the whole system goes down. Topologies that experience this are the star topology when the central hub or switch fails, ring topology, and bus topology. Infrastructure topology is different from wireless mesh because wireless mesh is where devices are wirelessly interconnected with each other similat to the mesh topology, whereas infrastructure topology is more similar to star topology and uses both wired and wireless connections using servers and routers. I think that wireless mesh is better because if one device goes down, the rest of the devices don't go down (less likely to experience single point of failure).
 ### Network Design
+My design was inspired by the mesh topology, and thus it has the router connected to the first computer, then the computers and printers are connected by a mesh to lessen the chance of a single point of failure, and the wireless access point is connected to the central computer.
 ### NSA/CSS
+The NSA, or National Security Agency, has a role in the US cybersecurity system in which it protects privacy rights and defends vital networks in order to ensure US cybersecurity. Additionally, NSA is the world leader in cryptology, allowing them to help keep the US safe online via cybersecurity.
 
 ## Conclusion
-Include your professional conclusion here
+During this lab, I learned how to make basic programs in Python and I found making my own logo using Vectr really interesting, but also difficult to get the display to look like what I had imagined. I appreciated the tour of Lucidchart, as when I started using it on my own I didn't take time to actually look at all of the features and this lab allowed me to explore functions that I had not used before, but I think that now, using it in the future, making diagrams and charts will be much easier and more productive using Lucidchart. I thought that learning about networks and cybersecurity was very interesting and am looking forward to learning more about those topics in the coming week.
