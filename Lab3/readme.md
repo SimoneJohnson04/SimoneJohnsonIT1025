@@ -32,6 +32,7 @@ As I have used Lucidchart before in order to create flowcharts to display the lo
 ### Networking Hardware
 A switch is better than a hub because a hub doesn't filter data or know where the data is supposed to be sent, whereas a switch knows the Mac adddresses of the devices connected so it can send the data only to the device that needs it(reduces traffic on network). A router is better than both a switch or a hub because hubs and switches both cannot read IP addresses and thus can only exchange data in the local area network, whereas the router can read IP addresses so it can accept the data meant for its network and rejects data for other networks.
 ### Network Topologies
+Single point of failure is when there is one part of the system that goes down, the whole system goes down. Topologies that experience this are the star topology when the central hub or switch fails, ring topology, and bus topology. Infrastructure topology is different from wireless mesh because wireless mesh is where devices are wirelessly interconnected with each other similat to the mesh topology, whereas infrastructure topology is more similar to star topology and uses both wired and wireless connections using servers and routers. I think that wireless mesh is better because if one device goes down, the rest of the devices don't go down (less likely to experience single point of failure).
 ### Network Design
 ### NSA/CSS
 
