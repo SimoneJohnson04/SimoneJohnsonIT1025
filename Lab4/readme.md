@@ -28,9 +28,11 @@ You should secure your browser because it allows you to prevent spyware and viru
 
 ## Internet Programming
 ### World Wide Web Consortium
-Tim Berners-Lee is an English engineer and the inventor of the World Wide Web, and he helped create W3C in order to write web standards and regulate how the World Wide Web should work and to collaborate with others working in the development of the web around the world. The standard that intrigued me was the "Web of Devices- Mobile Web" 
+Tim Berners-Lee is an English engineer and the inventor of the World Wide Web, and he helped create W3C in order to write web standards and regulate how the World Wide Web should work and to collaborate with others working in the development of the web around the world. The standard that intrigued me was the "Web of Devices- Mobile Web" and this is important because it details the idealistic concept of how web development for mobile devices should be, but it also puts standards about how it should be done for now.
 ### HTML5 and CSS
+
 ### HTML and XML
+XML differs from HTML because XML carries data whereas HTML displays the data. Additionally, the coding of XML is different because there are no predefinded tags like there are in HTML.
 
 ## Components of a URL
 
