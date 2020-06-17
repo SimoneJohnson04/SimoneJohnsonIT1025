@@ -18,12 +18,17 @@ Brute force is using a computer program (or extereme effort) to figure out the m
 
 ## Internet Architecture
 ### Internet Protocol
+An IP address is a number that is used in order to uniquely label different devices. IPv4 is an older version of an IP Address, but it was too small with only 32 bits for data and allowing about 4.29 billion devices, so IPv6 was created in order to have more IP Addresses by using a 128-bit address, allowing for many more unique IP addresses. ICANN is the non-profit organization that is responsible for the distribution of IP addresses, allowing people accross the globe to access the internet.
 ### TCP/IP
+The responsibility of TCP/IP, or Transmission Control Protocol / Internet Protocol, was initially to connect government computer systems to each other, but now is open to the public and is more commonly referred to as "the Internet". The client-server model applies to TCP/IP because the client is the computer that makes a request to the server, and the server is the one who receives the request and accepts or denies the request. Layers are important to changing technology because it allows one layer to be changed without affecting all of teh other layers, which makes changing technology much easier and more efficient. Applications that run on the application layer are mostly software and network applications such as FTP, and HTTP.
 ### Internet Security
+HTTP, or hypertext transfer protocol, is the protocol that is used in order to view websites on the internet, and it uses the client-server model as the client side computer inputs a request to the server for information from a certain IP Address in order to show the website on the computer, and the server responds with information in order to display the website. The protocol that HTTP uses to secure data is that they created HTTPS, or secure HTTP, in order to encrypt the data being sent to the server so that the data is impossible to read while it is going through the public domain.
 ### Securing your Web Browser
+You should secure your browser because it allows you to prevent spyware and viruses from being downloaded onto your devices. One of the risks is downloading a Java applet as they don't have a secure procedure for checking if their is malware or viruses in the applet, which could allow the creater to download Trojan or other spyware onto your computer and then steal your data.
 
 ## Internet Programming
 ### World Wide Web Consortium
+Tim Berners-Lee is an English engineer and the inventor of the World Wide Web, and he helped create W3C in order to write web standards and regulate how the World Wide Web should work and to collaborate with others working in the development of the web around the world. The standard that intrigued me was the "Web of Devices- Mobile Web" 
 ### HTML5 and CSS
 ### HTML and XML
 
