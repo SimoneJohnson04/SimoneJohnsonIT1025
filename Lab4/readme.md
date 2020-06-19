@@ -35,6 +35,13 @@ The purpose of HTML5 is to create the content of the website, allowing you to di
 XML differs from HTML because XML carries data whereas HTML displays the data. Additionally, the coding of XML is different because there are no predefinded tags like there are in HTML.
 
 ## Components of a URL
+**Scheme** - https. They are related because a scheme is the part of the URL that tells you device what application to use to open the URL. 
+**Domain** - www.amazon.com . It is related because it is the main body of the URL and can tell you information about the site that you are going to.
+**Top level domain** - .edu . It is related because the top level domain tells you about what type of site it is such as .gov, .com, .net, or .edu.
+**Default page** - No file path provided. It is related because the file path allows the deivce to find the page, but if there is no file path provided, then it goes to the default page.
+**Parameters** - Result of search. It is related because the parameters are a string of characters that help the computer locate the information and data that it needs.
+**Anchor** -  Specific location on the page. It is related because the anchor is what tells the browser what part of the page to display.
+**Example** - https://www.youtube.com/watch?v=9OkBjvXt9lc&list=PLoGgviqq4847VRWTPXkDwxeVvNNfoKD7J&index=31. "https" - scheme. "www.youtube.com" - domain. ".com" - TLP. "/watch" - file path. "9OkBjvXt9lc&list" - Parameters. No anchor.
 
 ## File Compression
 
