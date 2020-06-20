@@ -1,5 +1,5 @@
 # Executive Summary
-Include your executive summary here...
+The purpose of Lab 4 was to learn about cybersecurity, web pages, and file compression. Through the lab, cybersecurity was shown to have roots in encryption of data in order to ensure that important information isn't leaked by using private and public keys, along with secure HTTPS IP addresses. The lab also demonstrates how to create a basic website using HTML, how to incorporate images, and how to use CSS to change how the text and images are displayed. Finally, the lab touches on the idea of compressing files in order to send and store files so they take up less storage or "space" on a device.
 
 ## Cybersecurity and Encryption
 ### Information Systems Security
@@ -44,6 +44,7 @@ XML differs from HTML because XML carries data whereas HTML displays the data. A
 **Example** - https://www.youtube.com/watch?v=9OkBjvXt9lc&list=PLoGgviqq4847VRWTPXkDwxeVvNNfoKD7J&index=31. "https" - scheme. "www.youtube.com" - domain. ".com" - TLP. "/watch" - file path. "9OkBjvXt9lc&list" - Parameters. No anchor.
 
 ## File Compression
+The purpose of file compression is to make a file take up less storage space so it can be transfered more easily from computer to computer, and to allow it to not use as much storage if the computer is running low on storage. It also allows you to combine several files and zip them into a compressed folder. The .svg file was 207,252 bytes uncompressed and it went down to 110,720 bytes, so compressed about 1/2 of the size. On the other hand, a JPG file would compress a lot more than that due to being a highly compressable file type.
 
 ## Conclusion
-Include your conclusion here...
+Through this lab, I learned a lot about how encryption methods work daily without our awareness in order to keep our data secure and prevent others from being able to "steal" or intercept and decode important information. Additionally, I enjoyed the modules on building the website as I have used HTML and CSS in the past, but this course allowed me to experiment with them in a much more free-form, hands-on type of way. Finally, I thought that learning about file compression and expansion would be a very useful skill to have under my belt going forward, and I can't wait to see what the next and final week of this course has in store!
