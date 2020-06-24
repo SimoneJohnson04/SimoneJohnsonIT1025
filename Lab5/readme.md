@@ -16,7 +16,11 @@ OMG, or Object Management Group, is an international nonprofit organization that
 
 ## Data, Information and Knowledge
 ### Relational Data
+Data is raw facts without context, and information is processed data with context, whereas knowledge is perceptions about relationships among facts.
+The primary key would be the customers id based upon a credit card number. The customers and orders tables would be related because they would represent which customer has ordered which item. The foreign key in the orders table would be the item that they ordered as it connects the orders table to the customers table.
 ### Big Data
+The four V's of big data are: Volume (Amount/mass quantity of the data being recorded), Variety(The different types of data that is being recorded), Veracity(How accurate/trustworthy the data is, how significant a change is), and Velocity(Motion/time since past data influx).
+Technologies such as computers, phones, and other devices along with the internet allow big data to flow into programs, and then these programs need to be able to collect and interpret this large quantity of data that they are receiving.
 
 
 ## Structured Query Language (SQL)
