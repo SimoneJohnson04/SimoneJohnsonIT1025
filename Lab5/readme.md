@@ -24,10 +24,11 @@ Technologies such as computers, phones, and other devices along with the interne
 
 
 ## Structured Query Language (SQL)
+RBDMS, or Relational Database Management System, relates to SQL because RBDMS is a system that allows for data to be input and stored, along with the data to be analyzed for relationships, and SQL uses this in order to query and modify the data that is stored in the RDBMS. The two tabes I choose were the customers table and the orders table. The primary key for the customers table was the customer ID, and the foreign key for the orders table is the customer ID and the primary key for the orders table is the order ID. They are related because the customers ID listed in the customers table was recorded as the foreign key in the orders table.
 
 
 ## SQL Injections
-
+SQL injections are a security threat because they are codes that can cause the webpage to run an SQL statement on their database, which can allow the user who input the SQL injection to access all of the usernames and passwords stored in the database, which clearly poses a threat to online security. An example of something that can be done in order to reduce the threat that SQL injections pose is by using SQL parameters in order to make sure that the input is treated as such, and not as an SQL code.
 
 ## Ethical and Legal Implications
 ### Code of Ethics
